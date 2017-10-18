@@ -18,3 +18,4 @@ class Shoe
     BRANDS << brands
   end
 end
+
